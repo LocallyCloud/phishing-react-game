@@ -403,7 +403,7 @@ Marketing Department`,
               <li>• This game is for <strong>educational purposes only</strong></li>
               <li>• Do <strong>not click any links</strong> in the emails</li>
               <li>• <strong>Never provide real passwords</strong> or personal info</li>
-              <li>• All companies and emails are <strong>fictional</strong></li>
+              <li>• All companies, people, and emails in this game are <strong>fictional or used for training purposes only</strong>. Any resemblance to real entities is coincidental.</li>
               <li>• This is a safe simulation - your accounts are <strong>not affected</strong></li>
             </ul>
           </div>
