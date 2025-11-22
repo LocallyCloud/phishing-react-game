@@ -33,4 +33,4 @@ The game covers things like:
 
  ## NOTICE
  - You are free to fork this game or use for any educational purposes.
- - If you do, I would appreciate credit but aboslutely not required.
+ - If you do, I would appreciate credit but absolutely not required.
