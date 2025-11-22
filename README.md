@@ -4,16 +4,24 @@ Link: https://locallycloud.github.io/phishing-react-game/
 
 ## How to Play:
 • Review each email carefully
+
 • Click "Report Phishing" if suspicious
+
 • Click "Trust Email" if legitimate
+
 • One wrong answer ends the game!
+
 • Perfect score: 10/10
 
 ## ⚠️ IMPORTANT NOTICE:
 • This game is for educational purposes only
+
 • Do not click any links in the emails
+
 • Never provide real passwords or personal info
+
 • All companies, people, and emails in this game are fictional or used for training purposes only. Any resemblance to real entities is coincidental.
+
 • This is a safe simulation - your accounts are not affected
 
 ## Why I built this:
