@@ -400,9 +400,8 @@ Marketing Department`,
           <div className="mt-4 sm:mt-6 bg-red-50 border border-red-200 rounded-lg p-3 sm:p-4">
             <h3 className="font-semibold text-red-800 mb-2 text-sm sm:text-base">⚠️ IMPORTANT NOTICE:</h3>
             <ul className="text-xs sm:text-sm text-red-700 space-y-1">
-              <li>• This game is for <strong>educational purposes only</strong></li>
-              <li>• Do <strong>not click any links</strong> in the emails</li>
-              <li>• <strong>Never provide real passwords</strong> or personal info</li>
+              <li>• This game is <strong>entirely a simulation,</strong> and is meant for <strong>educational purposes only.</strong></li>
+              <li>• Do <strong>not click any links</strong> in the emails. They are simulated and may point to non-existent or unsafe domains.</li>
               <li>• All companies, people, and emails in this game are <strong>fictional or used for training purposes only</strong>. Any resemblance to real entities is coincidental.</li>
               <li>• This is a safe simulation - your accounts are <strong>not affected</strong></li>
             </ul>
