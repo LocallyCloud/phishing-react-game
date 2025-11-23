@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/phishing-react-game/static/css/main.7a374f68.css",
-    "main.js": "/phishing-react-game/static/js/main.d20f28e1.js",
+    "main.js": "/phishing-react-game/static/js/main.de42e90e.js",
     "static/js/453.d1289846.chunk.js": "/phishing-react-game/static/js/453.d1289846.chunk.js",
     "index.html": "/phishing-react-game/index.html",
     "main.7a374f68.css.map": "/phishing-react-game/static/css/main.7a374f68.css.map",
-    "main.d20f28e1.js.map": "/phishing-react-game/static/js/main.d20f28e1.js.map",
+    "main.de42e90e.js.map": "/phishing-react-game/static/js/main.de42e90e.js.map",
     "453.d1289846.chunk.js.map": "/phishing-react-game/static/js/453.d1289846.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a374f68.css",
-    "static/js/main.d20f28e1.js"
+    "static/js/main.de42e90e.js"
   ]
 }
